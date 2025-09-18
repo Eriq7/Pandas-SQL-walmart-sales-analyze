@@ -19,7 +19,7 @@ It combines **Python (Pandas)** for data cleaning and preprocessing with **SQL (
   9. Branches with the highest revenue decrease (2022 vs 2023)
 
 ## 🛠️ Tech Stack
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Python**: Pandas
 - **SQL**: PostgreSQL for data storage and analysis  
 - **Jupyter Notebook / VSCode**: Development environment
 
